@@ -3,9 +3,9 @@
     <id>jp.insectvox.TestApp</id>
     <name>TestApp</name>
     <version>1.0</version>
-    <publisher>tshiraishi</publisher>
+    <publisher>InsectVox</publisher>
     <url>http://</url>
-    <description/>
+    <description>undefined</description>
     <copyright>2014 by tshiraishi</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>

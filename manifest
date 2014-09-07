@@ -1,8 +1,8 @@
-#appname: TestApp
-#publisher: tshiraishi
-#url: http://
-#image: appicon.png
-#appid: jp.insectvox.TestApp
-#desc: undefined
-#type: ipad
-#guid: 2814193d-61cc-4db2-8850-e426d5816fd1
+#appname:TestApp
+#publisher:InsectVox
+#url:http://
+#image:appicon.png
+#appid:jp.insectvox.TestApp
+#desc:undefined
+#type:ipad
+#guid:2814193d-61cc-4db2-8850-e426d5816fd1
